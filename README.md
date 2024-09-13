@@ -1,4 +1,5 @@
 Frontend
+-     Install package first : npm install
 -     To run in local : npm run dev
 -	Login page : {URL}:{port}/login
 -	Dashboard page : {URL}:{port}
