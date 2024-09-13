@@ -1,4 +1,5 @@
 Frontend
+-     To run in local : npm run dev
 -	Login page : {URL}:{port}/login
 -	Dashboard page : {URL}:{port}
 -	Product Detail page : {URL}:{port}/detail/:id_detail
