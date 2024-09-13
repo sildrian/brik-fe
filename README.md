@@ -3,5 +3,5 @@ Frontend
 -	Dashboard page : {URL}:{port}
 -	Product Detail page : {URL}:{port}/detail/:id_detail
 -	Login akun: 
-- username : halo
+      - username : halo
    	- password : asdfg
